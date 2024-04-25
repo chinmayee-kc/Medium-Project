@@ -1,6 +1,6 @@
 {
-  "name": "sanityproject",
-  "private": true,
+  "name": "mysanityproject",
+  "private": false,
   "version": "1.0.0",
   "main": "package.json",
   "license": "UNLICENSED",
